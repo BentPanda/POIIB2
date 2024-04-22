@@ -1,0 +1,1 @@
+#wystawić endpoint który bierze pierwszą rzecz z bazy danych
